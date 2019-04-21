@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<body>
+<h1>Mistakes of life</h1>
+<img src="F:\life of a moment/mistakes.jpg">
+
+
+</body>
+</html>
